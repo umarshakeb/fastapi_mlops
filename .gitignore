@@ -1,0 +1,6 @@
+__pycache__
+venv/
+venv
+api_schema.yml
+openapi.yml
+screenshots/
